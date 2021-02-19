@@ -1,0 +1,10 @@
+D:\Workspaces\ListBoxArray\ListBoxArray\bin\Debug\ListBoxArray.exe.config
+D:\Workspaces\ListBoxArray\ListBoxArray\bin\Debug\ListBoxArray.exe
+D:\Workspaces\ListBoxArray\ListBoxArray\bin\Debug\ListBoxArray.pdb
+D:\Workspaces\ListBoxArray\ListBoxArray\obj\Debug\ListBoxArray.csprojAssemblyReference.cache
+D:\Workspaces\ListBoxArray\ListBoxArray\obj\Debug\ListBoxArray.Form1.resources
+D:\Workspaces\ListBoxArray\ListBoxArray\obj\Debug\ListBoxArray.Properties.Resources.resources
+D:\Workspaces\ListBoxArray\ListBoxArray\obj\Debug\ListBoxArray.csproj.GenerateResource.cache
+D:\Workspaces\ListBoxArray\ListBoxArray\obj\Debug\ListBoxArray.csproj.CoreCompileInputs.cache
+D:\Workspaces\ListBoxArray\ListBoxArray\obj\Debug\ListBoxArray.exe
+D:\Workspaces\ListBoxArray\ListBoxArray\obj\Debug\ListBoxArray.pdb
